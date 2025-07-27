@@ -1,0 +1,5 @@
+{
+  "name": "chatbot-ui-serverless",
+  "version": "1.0.0",
+  "description": "A chat UI with a serverless backend for Vercel deployment"
+}
